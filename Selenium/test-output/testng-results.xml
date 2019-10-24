@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22485" started-at="2019-10-24T03:38:57Z" finished-at="2019-10-24T03:39:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22485" started-at="2019-10-24T03:38:57Z" finished-at="2019-10-24T03:39:19Z">
+      <class name="TestNGDemo.LunchBrowser">
+        <test-method status="PASS" signature="lunch()[pri:0, instance:TestNGDemo.LunchBrowser@14acaea5]" name="lunch" duration-ms="22426" started-at="2019-10-24T09:08:57Z" finished-at="2019-10-24T09:09:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunch -->
+      </class> <!-- TestNGDemo.LunchBrowser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
